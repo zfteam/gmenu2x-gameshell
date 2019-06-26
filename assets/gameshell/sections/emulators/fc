@@ -1,0 +1,8 @@
+title=FC游戏
+description=FC Emulator
+exec=/home/cpi/apps/Menu/24_fceux/fceux
+icon=icons/fceux.png
+selectordir=/home/cpi/games/FC
+selectorbrowser=false
+selectorfilter=.nes,.fc,.fds,.zip
+

@@ -1,0 +1,9 @@
+title=PS游戏
+description=PS Emulator
+exec=/home/cpi/launcher/Menu/GameShell/20_Retro\ Games/Pcsx/pcsx -cdfile 
+selectordir=/home/cpi/games/PS
+icon=icons/pcsx4all.png
+selectorbrowser=false
+selectorfilter=.bin,.image,.img
+
+
