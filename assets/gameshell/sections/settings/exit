@@ -1,5 +1,4 @@
-title=Exit
-description=Exit GMenu2X to the official frontend
-icon=skin:icons/exit.png
-exec=scripts/exit.sh
+title=退出
+description=退出到原ui
+icon=icons/supertux.png
 wrapper=false
