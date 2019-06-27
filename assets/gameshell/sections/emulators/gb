@@ -1,8 +1,7 @@
 title=GB游戏
 description=GB Emulator
-exec=/home/cpi/apps/Menu/26_ohboy/ohboy
 icon=icons/ohboy.png
-selectordir=/home/cpi/games/GB
-selectorbrowser=false
-selectorfilter=.gb,.gbc,.zip
-
+exec=/home/cpi/apps/Menu/26_ohboy/ohboy
+selectordir=/home/cpi/games/GB/
+selectorfilter=gb,gbc,zip
+wrapper=true
