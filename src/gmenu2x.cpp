@@ -1782,13 +1782,13 @@ unsigned short GMenu2X::getBatteryLevel() {
 			if (name.length()>0 && value.length()>0 && name =="POWER_SUPPLY_CAPACITY" ){
 				stringstream ss(value);
 				int v=0;
-				ss>>v;
-				if (v>100) battval=6;
-				if (v>85) battval=5;
-				if (v>65) battval=4;
-				if (v>45) battval=3;
-				if (v>25) battval=2;
+				ss>>v;		
 				if (v>0) battval=1;
+				if (v>25) battval=2;
+				if (v>45) battval=3;
+				if (v>65) battval=4;
+				if (v>85) battval=5;
+				if (v>100) battval=6;
 				break;
 			}
 		}
@@ -1967,7 +1967,7 @@ string GMenu2X::getDiskFree() {
 
 int GMenu2X::drawButton(Button *btn, int x, int y) {
 	if (y<0) y = resY+y;
-	btn->setPosition(x, y-7);
+	btn->setPosition(x, y-7);Lev
 	btn->paint();
 	return x+btn->getRect().w+6;
 }
