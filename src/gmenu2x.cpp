@@ -1967,7 +1967,7 @@ string GMenu2X::getDiskFree() {
 
 int GMenu2X::drawButton(Button *btn, int x, int y) {
 	if (y<0) y = resY+y;
-	btn->setPosition(x, y-7);Lev
+	btn->setPosition(x, y-7);
 	btn->paint();
 	return x+btn->getRect().w+6;
 }
