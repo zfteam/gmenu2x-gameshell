@@ -6,3 +6,4 @@ params=-L /home/cpi/apps/emulators/fbalpha_libretro.so $1
 selectordir=/home/cpi/games/FBA/
 selectorfilter=zip,ZIP
 wrapper=true
+selectoraliases=aliases.txt
