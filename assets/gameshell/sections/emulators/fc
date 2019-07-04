@@ -4,4 +4,5 @@ icon=icons/fceux.png
 exec=/home/cpi/apps/Menu/24_fceux/fceux
 selectordir=/home/cpi/games/FC
 selectorfilter=nes,zip
+selectorscreens=images/FC
 wrapper=true

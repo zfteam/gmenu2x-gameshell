@@ -4,4 +4,5 @@ icon=icons/regba.png
 exec=/home/cpi/apps/Menu/23_gPsp/gpsp
 selectordir=/home/cpi/games/GBA/
 selectorfilter=gba,zip
+selectorscreens=images/GBA
 wrapper=true

@@ -4,4 +4,5 @@ icon=icons/ohboy.png
 exec=/home/cpi/apps/Menu/26_ohboy/ohboy
 selectordir=/home/cpi/games/GB/
 selectorfilter=gb,gbc,zip
+selectorscreens=images/GB
 wrapper=true
