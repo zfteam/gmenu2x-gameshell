@@ -4,5 +4,5 @@ icon=icons/picodrive.png
 exec=/home/cpi/apps/Menu/28_picodrive/PicoDrive
 selectordir=/home/cpi/games/MD
 selectorfilter=md,smd,gen,iso,bin,sms,gg,sg,zip
-selectorscreens=images/FC
+selectorscreens=images/MD
 wrapper=true
