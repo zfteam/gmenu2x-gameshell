@@ -1,7 +1,7 @@
 title=SFC游戏
 description=SFC Emulator
 icon=icons/pocketsnes.png
-exec=/home/cpi/apps/Menu/25_psnes/PocketSNES
+exec=/home/cpi/apps/emulators/PocketSNES/PocketSNES
 selectordir=/home/cpi/games/SFC/
 selectorfilter=sfc,SMC,smc,zip
 selectorscreens=images/SFC
