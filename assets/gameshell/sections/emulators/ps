@@ -5,4 +5,5 @@ exec=/home/cpi/apps/emulators/pcsx
 params=-cdfile $1
 selectordir=/home/cpi/games/PS/
 selectorfilter=bin,img,mdf,iso,cue,pbp,PBP,cbn,zip,rar
+selectorscreens=images/PS
 wrapper=true

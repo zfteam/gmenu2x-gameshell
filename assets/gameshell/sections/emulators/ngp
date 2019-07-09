@@ -5,4 +5,5 @@ exec=retroarch
 params=-L /home/cpi/apps/emulators/mednafen_ngp_libretro.so $1
 selectordir=/home/cpi/games/NGP/
 selectorfilter=npc,ngc
+selectorscreens=images/NGP
 wrapper=true
